@@ -1,24 +1,9 @@
-# README
+# Introduction to Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Task Manager
 
-Things you may want to cover:
+This repo contains an introduction to Ruby on Rails through the creation of a basic task manager. It covers CRUD functionality, the basic structure of a Rails app, and simple database interactions with ActiveRecord.
 
-* Ruby version
+## Context
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repo was built as part of the independent pre-work for Module 2 of the Backend Software Development program at the [Turing School of Software and Design](https://turing.edu/). You can find assignment and directions for this repo [here](https://github.com/turingschool-examples/task_manager_rails).
