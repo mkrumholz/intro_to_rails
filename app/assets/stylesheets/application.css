@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+body {
+  background-color: lavender;
+  color: indigo;
+}
+
+ div {
+   padding: 10px;
+ }
+
+ a {
+   color: mediumvioletred;
+ }
+
+.editor {
+  padding: 20px;
+}
+
+.deleter {
+  padding: 10px;
+}
+
+.input {
+  margin: 10px;
+}
